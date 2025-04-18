@@ -1,7 +1,7 @@
 # Hello World
 
-![demo](.demo.gif)
+![demo](./demo.gif)
 
 
 
-[![asciicast](https://asciinema.org/a/Y1El2umMsETcwcdnvX7DnkkUa.svg)](https://asciinema.org/a/Y1El2umMsETcwcdnvX7DnkkUa)
+// [![asciicast](https://asciinema.org/a/Y1El2umMsETcwcdnvX7DnkkUa.svg)](https://asciinema.org/a/Y1El2umMsETcwcdnvX7DnkkUa)
